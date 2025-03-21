@@ -2,27 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://www.informatica.uma.es/'>E.T.S. de Ingeniería Informática</a> | <a href='http://www.lcc.uma.es/'>Dpto. de Lenguajes y Ciencias de la Computación</a> | <a href='http://www.uma.es/'>Universidad de Málaga</a>
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  <p>E.T.S. de Ingeniería Informática.</p>
-  <p>Bulevar Louis Pasteur, 35. Campus de Teatinos.</p>
-  <p>Málaga, Spain</p>
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: false
+  enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
