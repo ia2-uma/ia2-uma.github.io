@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Bulevar Louis Pasteur, 35. <br/>
        Campus de Teatinos.<br/>  
-       29071 Málaga, Spain</p>
+       29071 Málaga, Spain.</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Our research group, formed by faculty and research staff of the Department of Languages and Computer Science of the UMA, has been conducting research activities in various areas of Artificial Intelligence since the mid 80's, under an inter and transdisciplinary approach, always with the aim of exploring the potential of Artificial Intelligence techniques to solve some of the problems facing our society.
+Our research group, formed by faculty and research staff of the Department of Languages and Computer Science of the University of Málaga, has been conducting research activities in various areas of Artificial Intelligence since the mid 80's, under an inter and transdisciplinary approach, always with the aim of exploring the potential of Artificial Intelligence techniques to solve some of the problems facing our society.
 
 Our research, with an eminently applied character, has focused on solving real-world problems in areas such as education, civil engineering, energy efficiency, sustainable and efficient mobility, architectural design or safety in the urban environment, through solutions ranging from classical expert systems to more complex approaches that integrate different AI techniques.
 
