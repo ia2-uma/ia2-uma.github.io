@@ -27,8 +27,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Our research group, formed by faculty and research staff of the Department of Languages and Computer Science of the UMA, has been conducting research activities in various areas of Artificial Intelligence since the mid 80's, under an inter and transdisciplinary approach, always with the aim of exploring the potential of Artificial Intelligence techniques to solve some of the problems facing our society.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Our research, with an eminently applied character, has focused on solving real-world problems in areas such as education, civil engineering, energy efficiency, sustainable and efficient mobility, architectural design or safety in the urban environment, through solutions ranging from classical expert systems to more complex approaches that integrate different AI techniques.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In its long history, the group has obtained funding through R&D projects in public competitive calls at European, national and regional level, as well as through research transfer contracts with industry and service sectors.
+
+[//]: <> ( Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
+
+[//]: <> ( Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.)
+
+[//]: <> ( Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)
