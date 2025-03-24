@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Bulevar Louis Pasteur, 35. <br/>
        Campus de Teatinos.<br/>  
-       Málaga, Spain</p>
+       29071 Málaga, Spain</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -38,3 +38,15 @@ In its long history, the group has obtained funding through R&D projects in publ
 [//]: <> ( Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.)
 
 [//]: <> ( Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)
+
+## Research lines
+- Data Science and Engineering
+- Data Mining and Machine Learning
+- Agentic AI, Multiagent Systems and Intelligent Autonomous Agents
+- Heuristic Search
+- User Modeling
+- Educational Modeling, Instructional Design and Automatic Generation of Educational Content
+- Reinforcement Learning
+- Personalization and Recommendation Techniques
+- Information Extraction and Retrieval
+- Collaborative Learning
