@@ -6,12 +6,12 @@ subtitle: <a href='http://www.informatica.uma.es/'>E.T.S. de Ingeniería Inform�
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ia2.gif
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  <p>E.T.S. de Ingeniería Informática.</p>
+  <p>Bulevar Louis Pasteur, 35. Campus de Teatinos.</p>
+  <p>Málaga, Spain</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
