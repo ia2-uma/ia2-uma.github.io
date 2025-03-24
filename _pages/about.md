@@ -6,7 +6,7 @@ subtitle: <a href='http://www.informatica.uma.es/'>E.T.S. de Ingeniería Inform�
 
 profile:
   align: right
-  image: ia2.gif
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
   <p>E.T.S. de Ingeniería Informática.</p>
