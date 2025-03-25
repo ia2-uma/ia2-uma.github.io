@@ -1,5 +1,5 @@
 ---
-layout: default # profiles
+layout: page # profiles
 permalink: /people/
 title: people
 description: members of the group
@@ -26,6 +26,8 @@ nav_order: 2
 #      <p>123 your address street</p>
 #      <p>Your City, State 12345</p>
 ---
+
+### People
 
 **Head:** Eduardo Guzmán De los Riscos
 
