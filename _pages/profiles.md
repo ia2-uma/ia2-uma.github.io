@@ -27,13 +27,9 @@ nav_order: 2
 #      <p>Your City, State 12345</p>
 ---
 
-<div class="post">
-  <article>
-        <div class="clearfix">
 **Head:** Eduardo Guzmán De los Riscos
-        </div>
-        <hr>
-        <div class="clearfix">
+<hr>
+
 ### Faculty
 - Beatriz Barros Blanco
 - Mª Victoria Belmonte Martínez
@@ -51,13 +47,9 @@ nav_order: 2
 - Mónica Trella López
 - Francisco A. Triguero Ruiz
 - José Luis Triviño Rodríguez
-        </div>
-        <hr>        
-        <div class="clearfix">        
+
+<hr>        
+
 ### Technical Researchers
 - Juan Palma Borda
 - Ángel J. Rodríguez Mercado
-        </div>        
-
-  </article>
-</div>
