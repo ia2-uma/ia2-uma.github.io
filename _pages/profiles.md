@@ -27,29 +27,40 @@ nav_order: 2
 #      <p>Your City, State 12345</p>
 ---
 
-### People
 
 **Head:** Eduardo Guzmán De los Riscos
 
-## Faculty
-- Beatriz Barros Blanco
-- Mª Victoria Belmonte Martínez
-- José del Campo Ávila
-- Ricardo Conejo Muñoz
-- Lawrence Mandow Andaluz
-- Eva Millán Valldeperas
-- Llanos Mora López
-- Rafael Morales Bueno
-- Marlon Núñez Paz
-- José L. Pérez de la Cruz Molina
-- Gonzalo Ramos Jiménez
-- Francisco Rodríguez Gómez
-- Amparo Ruiz Sepúlveda
-- Mónica Trella López
-- Francisco A. Triguero Ruiz
-- José Luis Triviño Rodríguez
+<div class="post">
+  <article>
+        <div class="clearfix">
+        **Head:** Eduardo Guzmán De los Riscos
+        </div>
+        <hr>
+        <div class="clearfix">
+        ### Faculty
+        - Beatriz Barros Blanco
+        - Mª Victoria Belmonte Martínez
+        - José del Campo Ávila
+        - Ricardo Conejo Muñoz
+        - Lawrence Mandow Andaluz
+        - Eva Millán Valldeperas
+        - Llanos Mora López
+        - Rafael Morales Bueno
+        - Marlon Núñez Paz
+        - José L. Pérez de la Cruz Molina
+        - Gonzalo Ramos Jiménez
+        - Francisco Rodríguez Gómez
+        - Amparo Ruiz Sepúlveda
+        - Mónica Trella López
+        - Francisco A. Triguero Ruiz
+        - José Luis Triviño Rodríguez
+        </div>
+        <hr>        
+        <div class="clearfix">        
+        ### Technical Researchers
+        - Juan Palma Borda
+        - Ángel J. Rodríguez Mercado
+        </div>        
 
-
-## Technical Researchers
-- Juan Palma Borda
-- Ángel J. Rodríguez Mercado
+  </article>
+</div>
