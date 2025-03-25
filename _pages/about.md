@@ -50,3 +50,7 @@ In its long history, the group has obtained funding through R&D projects in publ
 - Personalization and Recommendation Techniques
 - Information Extraction and Retrieval
 - Collaborative Learning
+
+## Contact us
+
+![](/assets/img/ia2_email.png)

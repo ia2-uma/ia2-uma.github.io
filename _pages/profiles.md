@@ -1,5 +1,5 @@
 ---
-layout: profiles
+layout: default # profiles
 permalink: /people/
 title: people
 description: members of the group
