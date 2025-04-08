@@ -17,6 +17,7 @@ collection: #books
 >
 > The team has been actively involved in these fields since before the year 2000. In addition to applying state-of-the-art machine learning techniques—such as ensemble methods, online learning, decision trees, or Markov models—we also develop our own algorithms tailored to specific challenges. These approaches are combined with efficient data mining processes and applied to real-world problems across a variety of domains. Current applications include urban sustainability, nature-based solutions, renewable energy systems, and the detection of suicidal behavior, among others. All of these initiatives are supported by a robust data infrastructure and advanced engineering methodologies that enable the effective extraction, transformation, and integration of data from heterogeneous sources.
 >
+> **Keywords:** Learning Algorithms, Supervised and Unsupervised Learning, Predictive Modeling, Data-driven Decision Making
 
 ## Agentic AI, Multiagent Systems and Intelligent Autonomous Agents
 
@@ -24,7 +25,7 @@ collection: #books
 >
 > Our group has been involved in research on multi-agent systems since the 1990s. In this line, we are currently working on projects to implement digital twins for crime, mobility and sustainability in the urban environment, combining Agentic AI with other lines of AI such as multi-agent reinforcement learning or deep learning models, and with data engineering techniques for intelligent data extraction and fusion.
 >
-> **Keywords:** distributed AI, agent-based modeling and simulation, multiagent reinforcement learning, LLM agents, large action models
+> **Keywords:** Distributed AI, Agent-Based Modeling and Simulation, Multiagent Reinforcement Learning, LLM Agents, Large Action Models
 
 ## Heuristic Search
 
