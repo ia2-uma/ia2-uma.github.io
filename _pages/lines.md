@@ -37,11 +37,11 @@ collection: #books
 ## Intelligent Analysis of Socio-economic and Sports Data
 
 > Smart data analysis, also known as advanced analytics, is an essential tool for transforming large volumes of information into actionable knowledge. Intelligent data analysis allows moving from data to knowledge, and from knowledge to informed action. In an environment with limited resources, high competitiveness or uncertainty (such as in economics or sport), this capability makes the difference between intuition and strategy. This quantitative approach makes it possible to identify patterns that are not obvious to the naked eye and make evidence-based decisions to improve equity, emotion and overall performance.
-
+>
 > But even more important for any field of activity, is to integrate and link data to social, economic or geographic characteristics. This is where the integration of socio-economic data brings essential value to the interpretation and decision support of the knowledge extraction process.
-
+>
 > By applying optimization, data mining or simulation techniques on complex structures, a deep and explanatory vision of the analyzed phenomenon is obtained. This allows not only to describe what happens, but to understand why it happens and to anticipate what might happen under other scenarios.
-
+>
 > The study of sports data incorporates the modeling of areas with data from a discrete space, such as sports competitions - such as allocations, classifications or binary results - with increasingly complex structures, where the progressive incorporation of information on social impact, audiences or bets must be highlighted and the use of combinatorial models, integer programming and heuristic methods allows complex configurations to be explored with high mathematical rigor.
 
 ## Heuristic Search
