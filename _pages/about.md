@@ -31,7 +31,7 @@ Our research group, formed by faculty and research staff of the Department of La
 
 Our research, with an eminently applied character, has focused on solving real-world problems in areas such as education, civil engineering, energy efficiency, sustainable and efficient mobility, architectural design or safety in the urban environment, through solutions ranging from classical expert systems to more complex approaches that integrate different AI techniques.
 
-In its long history, the group has obtained funding through R&D projects in public competitive calls at European, national and regional level, as well as through research transfer contracts with industry and service sectors.
+In its long history, the group has obtained funding through R&D projects in public competitive calls at European, national and regional level, as well as through research transfer contracts with industry and service sectors. We are also a research group (TIC-135) recognized under the Andalusian Plan for Research, Development and Innovation (PAIDI) of the Andalusian Regional Government.
 
 [//]: <> ( Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
 
