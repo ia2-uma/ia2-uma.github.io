@@ -6,7 +6,7 @@ subtitle: <a href='http://www.informatica.uma.es/'>E.T.S. de IngenierÃ­a InformÃ
 
 profile:
   align: right
-  image: ia2.gif #prof_pic.jpg
+  image: ia2-logo.png #ia2.gif #prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Bulevar Louis Pasteur, 35. <br/>
