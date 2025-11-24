@@ -376,26 +376,26 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-atreides",
-          title: 'ATREIDES',
-          description: "Agent-based simulation for predictive policing through data-driven and multi-tiered models",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_atreides.html";
-            },},{id: "projects-aisen",
+          section: "News",},{id: "projects-aisen",
           title: 'AISEN',
           description: "Development and validation of an AI-based interactive environment for the assessment and optimization of executive functions and reading processes in developmental disorders",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_aisen.html";
+              window.location.href = "/projects/aisen.html";
+            },},{id: "projects-atreides",
+          title: 'ATREIDES',
+          description: "Agent-based simulation for predictive policing through data-driven and multi-tiered models",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/atreides.html";
             },},{id: "projects-federja",
           title: 'FEDERJA',
           description: "Agent-Based Crime Prediction Models and Data Science",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_federja.html";
+              window.location.href = "/projects/federja.html";
             },},{id: "projects-tatooine",
           title: 'TATOOINE',
           description: "A Data-Driven Smart Platform for the Analysis, Evaluation and Planning of the 15-minute City Model",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_tatooine.html";
+              window.location.href = "/projects/tatooine.html";
             },},{
         id: 'social-email',
         title: 'email',
