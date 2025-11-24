@@ -391,6 +391,11 @@ ninja.data = [{
           description: "Agent-Based Crime Prediction Models and Data Science",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_federja.html";
+            },},{id: "projects-tatooine",
+          title: 'TATOOINE',
+          description: "A Data-Driven Smart Platform for the Analysis, Evaluation and Planning of the 15-minute City Model",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_tatooine.html";
             },},{
         id: 'social-email',
         title: 'email',
