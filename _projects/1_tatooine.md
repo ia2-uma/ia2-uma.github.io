@@ -2,7 +2,7 @@
 layout: page
 title: TATOOINE
 description: A Data-Driven Smart Platform for the Analysis, Evaluation and Planning of the 15-minute City Model
-img: assets/img/generacion-conocimiento.jpg
+img: assets/img/gener-conoc.jpg
 importance: 1
 category: research
 related_publications: true
