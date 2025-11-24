@@ -3,7 +3,7 @@ layout: page
 title: AISEN
 description: Development and validation of an AI-based interactive environment for the assessment and optimization of executive functions and reading processes in developmental disorders
 img: assets/img/transdig.png
-importance: 2
+importance: 3
 category: research
 ---
 

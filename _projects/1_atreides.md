@@ -3,7 +3,7 @@ layout: page
 title: ATREIDES
 description: Agent-based simulation for predictive policing through data-driven and multi-tiered models
 img: assets/img/architecture_atreides.png
-importance: 1
+importance: 2
 category: research
 related_publications: true
 ---
