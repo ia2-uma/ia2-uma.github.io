@@ -34,4 +34,5 @@ This project is part of the collaboration that has been taking place since 2018 
 - Eva Millán
 - Lawrence Mandow
 - Juan Palma Borda
-- Pablo Ruiz-Cruces
+- Francisco Rodríguez Gómez
+- Mónica Trella
