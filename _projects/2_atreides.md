@@ -36,3 +36,4 @@ This project is part of the collaboration that has been taking place since 2018 
 - Juan Palma Borda
 - Francisco Rodríguez Gómez
 - Mónica Trella
+- Esperanza García-Vergara

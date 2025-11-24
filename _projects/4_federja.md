@@ -3,7 +3,7 @@ layout: page
 title: FEDERJA
 description: Agent-Based Crime Prediction Models and Data Science
 img: assets/img/federja.jpg
-importance: 4
+importance: 3
 category: research
 ---
 
