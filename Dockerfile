@@ -23,6 +23,8 @@ LABEL authors="Amir Pourmand,George Araújo" \
 RUN apt-get update -y && \
     apt-get install -y --no-install-recommends \
         build-essential \
+        libxml2-dev \
+        libxslt1-dev \
         curl \
         git \
         imagemagick \
